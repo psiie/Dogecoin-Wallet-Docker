@@ -1,4 +1,7 @@
-
+testnet3/*
+testnet3
+Dogecoin-Core-1.10-dogeparty/testnet3/
+.env
 # Created by https://www.gitignore.io/api/osx,node,linux,python,windows
 
 ### Linux ###
